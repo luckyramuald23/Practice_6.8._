@@ -1,0 +1,15 @@
+a {
+    text-decoration:none;
+    color:green;
+    font-size: large;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 6px;
+   
+    
+}
+
+a:hover {
+text-decoration: underline;
+color: red;
+}
